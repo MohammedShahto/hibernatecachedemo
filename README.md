@@ -1,7 +1,7 @@
 # Hibernate 2nd Level Cache Demo with Spring Boot and Redis
 
-This demo project accompanies the Medium article: ["Scaling Spring Boot with Hibernate 2nd Level Cache on Redis"]
-(https://medium.com/@shahto/scaling-spring-boot-with-hibernate-2nd-level-cache-on-redis-54d588fc8b06)
+This demo project accompanies the Medium article: 
+[Scaling Spring Boot with Hibernate 2nd Level Cache on Redis](https://medium.com/@shahto/scaling-spring-boot-with-hibernate-2nd-level-cache-on-redis-54d588fc8b06)
 
 ## Content
 
